@@ -1,0 +1,7 @@
+#pragma once
+
+#undef ILLUMINATION_COUNT
+#define ILLUMINATION_COUNT 12
+
+#undef TYPEID
+#define TYPEID 0x0000CC01

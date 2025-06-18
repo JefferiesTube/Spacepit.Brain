@@ -1,0 +1,5 @@
+#pragma once
+
+#define EEPROM_LAYOUT_VERSION 1
+
+#define OFFSET_IDENTIFICATION 42
